@@ -1,0 +1,4 @@
+CheckSum.class
+META-INF\native-image\picocli-generated\org.example\checksum\proxy-config.json
+META-INF\native-image\picocli-generated\org.example\checksum\reflect-config.json
+META-INF\native-image\picocli-generated\org.example\checksum\resource-config.json

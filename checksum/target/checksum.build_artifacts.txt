@@ -1,0 +1,6 @@
+[EXECUTABLE]
+checksum.exe
+
+[JDK_LIB]
+sunmscapi.dll
+
